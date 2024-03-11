@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post Başlık 1",
+      "body": "Post İçerik 1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post Başlık 2",
+      "body": "Post İçerik 2",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Post Başlık 3",
+      "body": "Post İçerik 3",
+      "userId": 2
+    }
+  ],
+  "users": [
+    {
+      "username": "user2",
+      "id": "1"
+    },
+    {
+      "id": "9aa2",
+      "username": "kardelruveyda"
+    },
+    {
+      "id": "5630",
+      "username": "selam"
+    },
+    {
+      "username": "selam2",
+      "id": "ecbd"
+    }
+  ]
+}
