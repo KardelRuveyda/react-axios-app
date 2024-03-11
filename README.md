@@ -1,6 +1,7 @@
 ##  React-Axios App
 
 Bu proje, kullanıcı ekleme, silme, güncelleme ve listeleme işlemlerini gerçekleştiren bir web uygulamasıdır.
+<img width="518" alt="image" src="https://github.com/KardelRuveyda/react-axios-app/assets/33912144/3003bdb5-ee28-40f3-bba9-11f859c20a9e">
 
 ## Kurulum
 
